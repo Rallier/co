@@ -16,6 +16,12 @@ ul {
     list-style: none;
 }
 
+.main-column{
+    width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .btn, button[type='submit'] {
     -webkit-box-shadow: -3px 3px 0 #e05e00,-2px 2px #e05e00,-1px 1px 0 #e05e00;
     -moz-box-shadow: -3px 3px 0 #e05e00,-2px 2px #e05e00,-1px 1px 0 #e05e00;
